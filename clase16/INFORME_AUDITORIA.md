@@ -4,15 +4,15 @@ Curso: Aseguramiento de la Calidad de Software, Unidad 3, Clase 16.
 Fecha: 23 de noviembre de 2026.
 Alcance: flujo de reserva de laboratorio (usabilidad, accesibilidad WCAG 2.2 AA, confiabilidad y seguridad web).
 Criterios: documento "Clase 16: Fundamentos teóricos". Las anclas (§, T, F, R) remiten a ese documento.
-La prioridad de cada hallazgo se asigna con la matriz T11. Las capturas están en `evidencias/`. Este informe no contiene contraseñas, tokens ni datos personales.
+La prioridad de cada hallazgo se asigna con la matriz T11. Las capturas están en `evidencias/`. Este informe no contiene contraseñas ni tokens.
 
 | Integrante | Correo institucional | Rol de auditoría |
 |---|---|---|
-| Pendiente: nombre | Pendiente: correo | Pendiente: rol |
-| Pendiente: nombre | Pendiente: correo | Pendiente: rol |
+| Daniel Sozoranga | dasozorangamo@uide.edu.ec | Usabilidad y accesibilidad |
+| Ricardo Alvarez | rialvarezso@uide.edu.ec | Confiabilidad y seguridad |
 
 Entorno auditado: Pendiente (URL o versión de ReservaLab). Las pruebas de seguridad se hicieron solo en el entorno autorizado (R8).
-Herramientas: axe DevTools (versión pendiente), Lighthouse (versión pendiente), OWASP ZAP (versión pendiente), Postman (versión pendiente).
+Herramientas: axe DevTools (axe-core 4.13.0), Lighthouse (versión pendiente), OWASP ZAP (versión pendiente), Postman (versión pendiente).
 
 ## 1. Veredicto: NO-GO
 
